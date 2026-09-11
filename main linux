@@ -1,0 +1,13 @@
+| mkdir    | créer des répértoires                                           | mkdir (nom dossier)                           |
+| -------- | --------------------------------------------------------------- | --------------------------------------------- |
+| ls       | afficher le contenue du répértoire                              | ls (tout le répértoire s'affiche)             |
+| cp       | copier des fichiers et des répértoires                          | cp (fichier que tu veux copier) (destination) |
+| rm       | effacer des fichiers et des répertoires                         | rm (fichier a suppr)                          |
+| mv       | déplacer ou renommer des fichiers                               | mv (fichier) (rename ou cible)                |
+| cd       | allez quelque part point A a point B                            | cd (dossier ou naviguer)                      |
+| rmdir    | supprimer des répertoires vides                                 | rmdir (répertoire)                            |
+| pwd      | Afficher le nom du répertoire de travail actuel                 | pwd (nom s'affiche)                           |
+| more     | montre le contenu d'un fichier dans le terminal                 | more (files)                                  |
+| printenv | afficher l'ensemble ou une partie des variables d'environnement | printenv (variable)                           |
+| chmod    | modifier les bits de comportement de fichier                    | chmod (modifier droit)                        |
+| link     | Créer un lien vers un fichier                                   | link (?)                                      |
